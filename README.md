@@ -24,8 +24,8 @@
 ---
 
    :speaking_head:
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I Graduated Bachelor Of Computer Application at Kerala University.
+   Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: Graduated Bachelor Of Computer Application at Kerala University.
 
 - :seedling:Still Learning New Things for Making a Successful Career.
 
