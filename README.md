@@ -2,12 +2,11 @@
 
 # Hi, I'm Linto 👋
 
-**Full-stack developer · Python & TypeScript · Kollam, Kerala**
+**Full-stack developer · Python & TypeScript**
 
 I build Telegram bots that run large channel networks, Windows desktop apps,
 and the automation that keeps them running.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linto-babu-b93673237/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/clickkhere)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/no_capti0n)
 
